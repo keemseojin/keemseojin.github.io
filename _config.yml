@@ -1,6 +1,6 @@
 title: "My Blog"
 description: "안녕하신가요?"
-theme: "minimal-mistakes"
+theme: "mmistakes/minimal-mistakes"
 url: "https://keemseojin.github.io"  
 baseurl: ""  
 author: "Seojin Kim"
