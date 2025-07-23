@@ -148,7 +148,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/keemseojin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -157,7 +157,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://Instagram.com/keemseojin"
   since: "2025"
 
 
