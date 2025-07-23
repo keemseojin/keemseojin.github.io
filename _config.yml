@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "김서진 Seojin Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "뭐먹고살지?"
   location         : "Seoul Natinal University, Seoul, Korea"
   email            : "seojin544@snu.ac.kr"
   links:
