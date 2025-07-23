@@ -8,10 +8,10 @@ exerpt: "어렵다..."
 ## n개의 글머리도 달 수 있답니다  
 >인용문입니다. 명언을 적어볼까요? 급수는 부분합의 극한이다-김현우T  
 >>더블 인용문입니다. 음..할 얘긴 없네요. n개도 가능합니다.  
-*수학
- *통계학
-   *수리통계학
+- 수학
+  - 통계학
+    - 수리통계학
 * * *
 수평선입니다.  
-<instagram.com/keemseojin> 제 인스타구여  
-![사진도 은근슬쩍..](https://keemseojin.github.io/assets/images/σ.png){: .align-center}
+<https://instagram.com/keemseojin> 제 인스타구여  
+![사진도 은근슬쩍..](https://keemseojin.github.io/assets/images/σ.png)
