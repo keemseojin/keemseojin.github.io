@@ -11,7 +11,9 @@ exerpt: "어렵다..."
 - 수학
   - 통계학
     - 수리통계학
-* * *
+
+***
 수평선입니다.  
 <https://instagram.com/keemseojin> 제 인스타구여  
+  
 ![사진도 은근슬쩍..](https://keemseojin.github.io/assets/images/σ.png)
