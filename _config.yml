@@ -21,12 +21,12 @@ title_separator          : "-"
 subtitle                 : "學而時習之면 不亦說乎아?"
 name                     : "김서진 Seojin Kim"
 description              : "이것저것"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://keemseojin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/keemseojin/keemseojin.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/σ.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "서진's Blog"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
